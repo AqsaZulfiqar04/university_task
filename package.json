@@ -1,0 +1,37 @@
+{
+  "license": "0BSD",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^14.0.2",
+    "date-fns": "*",
+    "dotenv": "^16.5.0",
+    "expo": "~52.0.46",
+    "expo-status-bar": "~2.0.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.16.0",
+    "mongoose": "^8.15.0",
+    "react": "18.3.1",
+    "react-native": "0.76.9",
+    "react-native-paper": "4.9.2",
+    "university-tasks": "file:"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  
+
+  "private": true,
+  "name": "university-tasks",
+  "version": "1.0.0",
+  "description": "Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!",
+
+  "keywords": [],
+  "author": ""
+}
